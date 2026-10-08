@@ -1,0 +1,6 @@
+@use 'base';
+
+.header {
+  background-color: base.$color-grey-dark-1;
+  grid-column: full-start / col-end 6;
+}
