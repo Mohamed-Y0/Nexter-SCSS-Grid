@@ -427,7 +427,7 @@ The build automation pipeline defined in `package.json` runs modern SCSS compila
 Clone the repository and install the developer dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Mohamed-Y0/Nexter-SCSS-Grid
 cd Nexter
 npm install
 ```
